@@ -1,0 +1,22 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: 14pt;
+}
+
+nav {
+  font-size: 12pt;
+}
+
+h2 {
+  color: ##1E2F1F;
+}
+
+a {
+  color: #468111;
+}
+
+a:hover {
+  color: #468111;
+}
